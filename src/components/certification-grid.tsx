@@ -41,7 +41,7 @@ export function CertificationGrid() {
             badge="Live app"
             title="Linux+ Prep"
             subtitle="Terminal-first practice & scenario labs"
-            href="https://examprep-elys.onrender.com/"
+            href="https://linux-prep.onrender.com/"
             ctaLabel="Open Linux+ App"
             delay={0.08}
           />
